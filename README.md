@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Student-Management-CRUD-Simple
 This is a student management system built with Laravel 11 as a practice project. It allows users to manage student records by adding, editing, viewing, and deleting information. The project helps me learn core Laravel concepts, including routing, controllers, models, and views.
 =======
